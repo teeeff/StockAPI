@@ -1,0 +1,2 @@
+nohup java -jar -Dserver.port=1212 testgwapi-0.0.1.jar &
+http://gw02.itversity.com:1111/api/sample?id=0
